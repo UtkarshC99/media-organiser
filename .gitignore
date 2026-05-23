@@ -4,3 +4,4 @@ public
 .thumb_cache
 *.db
 *.ipynb
+*.pyc
